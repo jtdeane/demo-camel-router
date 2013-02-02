@@ -1,3 +1,3 @@
 Camel Router Example - Uses Java DSL
 
-Deploy to $ACTIVEM_MQ/lib
+Deploy to $ACTIVEMQ_HOME/lib
