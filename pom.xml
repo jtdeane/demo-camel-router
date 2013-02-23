@@ -13,7 +13,7 @@
 	<groupId>ws.cogito.security</groupId>
 	<artifactId>camel-insurance-router</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>camel-insurance-router</name>
 
 	<properties>

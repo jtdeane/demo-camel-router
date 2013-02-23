@@ -3,7 +3,7 @@ package ws.cogito.security;
 import org.apache.camel.builder.RouteBuilder;
 
 /**
- * Insurance Route Builder
+ * Insurance Queue Routing
  * @author jeremydeane
  */
 public class InsuranceEventRouteBuilder extends RouteBuilder {
